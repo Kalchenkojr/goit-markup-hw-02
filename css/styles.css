@@ -5,8 +5,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: var(--main-color)
-    background-color var(--main-bcg-color)
+    color: #434455;
+    background-color: var(--main-bcg-color);
 }
 
 .list {
@@ -117,7 +117,6 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--main-color);
 }
 
 /* -----------------EXAMPLES---------------- */
@@ -155,7 +154,6 @@ body {
     font-size: 16px;
     line-height: 1.5x;
     letter-spacing: 0.02em;
-    color: var(--main-color);
 }
 
 /* -----------------FOOTER---------------- */
@@ -210,6 +208,5 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--main-color);
 }
 
