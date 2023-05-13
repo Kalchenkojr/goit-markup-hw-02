@@ -24,6 +24,7 @@ body {
 }
 
 /* -----------------HEADER---------------- */
+
 .header {
     background-color: #FFFFFF;
 }
@@ -76,10 +77,8 @@ body {
     background-color: #2E2F42;
 }
 .hero-title {
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
@@ -101,6 +100,7 @@ body {
 }
 
 /* -----------------ADVANTAGES---------------- */
+
 .advantages-subtitle {
     font-weight: 500;
     font-size: 20px;
@@ -112,6 +112,44 @@ body {
 .advantages-text {
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* -----------------EXAMPLES---------------- */
+
+.examples-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+/* -----------------TEAM---------------- */
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.team-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.team-text {
+    font-size: 16px;
+    line-height: 1.5x;
     letter-spacing: 0.02em;
     color: #434455;
 }
@@ -133,3 +171,6 @@ background-color: #2E2F42;
     letter-spacing: 0.02em;
     color: #F4F4FD;
 }
+
+/* -----------------PORTFOLIO---------------- */
+
